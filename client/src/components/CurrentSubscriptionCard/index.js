@@ -44,7 +44,7 @@ function CurrentSubscriptionCard(props) {
       </div>
     );
   } else {
-    return <p>loading...</p>;
+    return null;
   }
 }
 

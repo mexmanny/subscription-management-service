@@ -163,7 +163,9 @@ function SubscriptionList() {
   } else {
     return (
       <SubscriptionPageContainer>
-        <title>Subscription List</title>
+        <Helmet>
+          <title>Subscription List</title>
+        </Helmet>
         <h1 style={{ textAlign: "center" }}>Subscription Page</h1>
         <SubscriptionsList>
           {[1, 2, 3, 4, 5].map((subscription) => (
