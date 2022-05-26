@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "Spotify",
+    "price": 210.99,
+    "frequency": "Annually",
+    "description": "Music Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "05/25/2022"
+  },
+  {
+    "id": 2,
+    "name": "Netflix",
+    "price": 17.99,
+    "frequency": "Monthly",
+    "description": "Movie Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "02/10/2022"
+  },
+  {
+    "id": 3,
+    "name": "Apple Music",
+    "price": 11.99,
+    "frequency": "Monthly",
+    "description": "Music Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "02/10/2022"
+  },
+  {
+    "id": 4,
+    "name": "SiriusXM",
+    "price": 15.99,
+    "frequency": "Monthly",
+    "description": "Music Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "05/20/2022"
+  },
+  {
+    "id": 5,
+    "name": "OnStar",
+    "price": 2.99,
+    "frequency": "Monthly",
+    "description": "Music Streaming Service",
+    "created_at": "05/20/2019",
+    "updated_at": "02/10/2022"
+  },
+  {
+    "id": 6,
+    "name": "YoutubeTv",
+    "price": 12.99,
+    "frequency": "Monthly",
+    "description": "Emergency Service",
+    "created_at": "12/10/2021",
+    "updated_at": "02/10/2022"
+  },
+  {
+    "id": 7,
+    "name": "Amazon Prime",
+    "price": 124.99,
+    "frequency": "Annually",
+    "description": "Monthly Shipping Service",
+    "created_at": "12/10/2021",
+    "updated_at": "02/10/2022"
+  },
+  {
+    "id": 8,
+    "name": "Hulu",
+    "price": 10.99,
+    "frequency": "Monthly",
+    "description": "Content Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 9,
+    "name": "Hbo Max",
+    "price": 11.99,
+    "frequency": "Monthly",
+    "description": "Content Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 10,
+    "name": "T-Mobile",
+    "price": 12.99,
+    "frequency": "Monthly",
+    "description": "Mobile Phone Service",
+    "created_at": "12/10/2021",
+    "updated_at": "05/26/2022"
+  },
+  {
+    "id": 11,
+    "name": "PlayStation Plus",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 12,
+    "name": "Farmer's Dog",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 13,
+    "name": "Socks",
+    "price": 2.99,
+    "frequency": "Monthly",
+    "description": "Socks Subscriptions Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 14,
+    "name": "WWE",
+    "price": 7.99,
+    "frequency": "Monthly",
+    "description": "World Wresting Entertainment Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 15,
+    "name": "Hbo Max",
+    "price": 11.99,
+    "frequency": "Monthly",
+    "description": "Content Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 16,
+    "name": "Stylist.co",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Subscription Based Fasion Delivery",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 17,
+    "name": "PlayStation Plus",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 18,
+    "name": "Farmer's Dog",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 19,
+    "name": "Socks",
+    "price": 2.99,
+    "frequency": "Monthly",
+    "description": "Socks Subscriptions Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 20,
+    "name": "WWE",
+    "price": 7.99,
+    "frequency": "Monthly",
+    "description": "World Wresting Entertainment Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 21,
+    "name": "Hbo Max",
+    "price": 11.99,
+    "frequency": "Monthly",
+    "description": "Content Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 22,
+    "name": "Stylist.co",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Subscription Based Fasion Delivery",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 23,
+    "name": "PlayStation Plus",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 24,
+    "name": "Farmer's Dog",
+    "price": 9.99,
+    "frequency": "Monthly",
+    "description": "Video Game Subscription Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 25,
+    "name": "Stance",
+    "price": 2.99,
+    "frequency": "Monthly",
+    "description": "Socks Subscriptions Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 26,
+    "name": "WWE",
+    "price": 7.99,
+    "frequency": "Monthly",
+    "description": "World Wresting Entertainment Streaming Service",
+    "created_at": "12/10/2021",
+    "updated_at": "12/10/2021"
+  },
+  {
+    "id": 27,
+    "name": "Testing Subscription",
+    "description": "Testing",
+    "price": 3.99,
+    "frequency": "Monthly",
+    "updated_at": "05/20/2022",
+    "created_at": "05/20/2022"
+  }
+]
