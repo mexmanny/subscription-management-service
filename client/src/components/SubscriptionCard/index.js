@@ -47,7 +47,7 @@ function SubscriptionCard(props) {
     !props.subscription
       ? async () => {
           const queryDataSubscription = await fetch(`/subscriptions/${id}`);
-          return queryDataSubscription;
+          return queryDataSubscription.json();
         }
       : async () => {
           return props.subscription;
