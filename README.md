@@ -23,7 +23,7 @@ Next you can run:
 
 This will install all dependencies necessary for the react application
 
-Once this is completed you should be able to run the below command to run both the backend server and the react client concurrently:
+Once this is completed you should be to go back into the main directory and run both the backend server and the react client concurrently by passing the following command:
 
 ### `npm run both`
 
