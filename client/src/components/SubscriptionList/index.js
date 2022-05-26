@@ -91,7 +91,7 @@ function SubscriptionList() {
         <button
           style={{
             position: "absolute",
-            top: "1rem;",
+            top: "1rem",
             right: "1rem",
             backgroundColor: "#eb6651",
             color: "white",

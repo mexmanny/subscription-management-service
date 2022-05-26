@@ -196,9 +196,18 @@ app.delete("/subscription", (req, res) => {
 });
 
 app.get("/api/images/:id", (req, res) => {
-  res.json(
-    imageInfo.find((param) => param.subscriptionId === parseInt(req.params.id))
+  const imageData = imageInfo.find(
+    (param) => param.subscriptionId === parseInt(req.params.id)
   );
+  if (imageData) {
+    res.json(
+      imageInfo.find(
+        (param) => param.subscriptionId === parseInt(req.params.id)
+      )
+    );
+  } else {
+    res.status(404).send("Image not found");
+  }
 });
 
 app.listen(PORT, () => {

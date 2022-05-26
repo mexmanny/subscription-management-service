@@ -59,9 +59,11 @@ function SubscriptionCard(props) {
     !props.subscription
       ? async () => {
           const imageData = await fetch(`/api/images/${id}`);
+
           return imageData.json();
         }
       : async () => {
+          if (!props.subscription.id) return null;
           const imageData = await fetch(`/api/images/${props.subscription.id}`);
           return imageData.json();
         }
